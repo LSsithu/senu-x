@@ -14,7 +14,7 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
     
 const voice = {
-    menu: ''
+    menu: 'media/AUD-20240904-WA0426.mp3'
 }
 
 let menu = {
