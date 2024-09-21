@@ -13,7 +13,7 @@
 
   <p align="center">
 <a href="https://github.com/QUEEN-KYLIE-MD-01/QUEEN-KYLIE-MD/new/main">
-    <img src="https://i.ibb.co/tCkmbMx/IMG-20240913-WA0041.jpg"  width="700px">
+    <img src=""  width="700px">
 </a>
 <hr>
 
