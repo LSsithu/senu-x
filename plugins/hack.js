@@ -36,7 +36,6 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             '⚠️ *Note:* All actions are for demonstration purposes only.',
             '⚠️ *Reminder:* Ethical hacking is the only way to ensure security.',
             '',
-ᴍᴀꜱᴛᴇʀ ʀᴏᴄᴋʏ
             '> *ᴍᴀꜱᴛᴇʀ ʀᴏᴄᴋʏ Is here☣*'
         ];
 
