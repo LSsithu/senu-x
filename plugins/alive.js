@@ -11,7 +11,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 const voice = {
-    alive: 'media/AUD-20240909-WA0003'
+    alive: 'media/WhatsApp Ptt 2024-09-24 at 8.17.11 AM.ogg'
                     }
 let des = `*👋 Hello ${pushname}*
 
